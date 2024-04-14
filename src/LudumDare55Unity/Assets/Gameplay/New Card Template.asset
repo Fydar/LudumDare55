@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e703a56567f7e464eb4465e71db5df20, type: 3}
+  m_Name: New Card Template
+  m_EditorClassIdentifier: 
+  cardName: Card Name
+  cardFlavourText: A card.
+  graphics: {fileID: 4111149539523340224, guid: e85e7ab9a2f7b4844b3ad257ddc949f0,
+    type: 3}
+  energyCost: 1
